@@ -11,4 +11,4 @@ Furthermore, the official Orthanc Python plugin is licensed under the AGPLv3+. T
 
 "Pay attention to the fact that this plugin is licensed under the terms of the AGPL license. This has an important consequence: If you distribute Orthanc to clients together with one Python script, or if you put an Orthanc server equipped with one Python script on a Web portal, you must disclose the source code of your Python script to the Orthanc community under the terms of the AGPL license."
 
-Therefore, if you have extended the Python plugin for Orthanc, you should use the AGPLv3+ license for your extended plugin.
+Therefore, this extention of the Python plugin for Orthanc, use the AGPLv3+ license.
